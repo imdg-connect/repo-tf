@@ -1,0 +1,2 @@
+>>install vscode extension -> Terraform, HashiCorp Terraform, Terraform
+>>
